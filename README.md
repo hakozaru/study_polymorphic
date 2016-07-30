@@ -1,1 +1,3 @@
 Polymorphic関連を理解するためだけに rails new したプロジェクト
+
+(mysql動かなくてvagrant上で作業したからユーザーがおかしい)
