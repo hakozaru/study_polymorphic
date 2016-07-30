@@ -1,0 +1,1 @@
+Polymorphic関連を理解するためだけに rails new したプロジェクト
